@@ -1,0 +1,10 @@
+nav li {
+
+    display: inline;
+    list-style: none;
+}
+
+nav li a {
+
+    text-decoration: none;
+}
